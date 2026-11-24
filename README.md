@@ -18,6 +18,7 @@
 <br/><br/>
 
 <a href="https://github.com/stevechan970427"><img src="https://img.shields.io/badge/GitHub-stevechan970427-181717?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" /></a>
+<a href="mailto:stevechan970427@gmail.com"><img src="https://img.shields.io/badge/Email-stevechan970427%40gmail.com-D14836?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=stevechan970427&label=Profile%20Views&color=0e75b6&style=flat-square&labelColor=0d1117" />
 
 </div>
@@ -39,6 +40,7 @@
 ```yaml
 name     :  Seungchan Lee
 github   :  stevechan970427
+email    :  stevechan970427@gmail.com
 language :  Python
 ```
 
