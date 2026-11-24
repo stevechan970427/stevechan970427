@@ -19,7 +19,7 @@ language :  Python
 
 | Project | Stack | Description |
 |---|---|---|
-| [my-chatbot](https://github.com/stevechan970427/my-chatbot) | Python | Multi-page chatbot app |
+| [my-chatbot](https://github.com/stevechan970427/my-chatbot) | Python | Chatbot app |
 
 ## Toolkit
 
