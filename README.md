@@ -37,6 +37,7 @@
 ## §&nbsp;I.&nbsp;&nbsp;Profile
 
 ```yaml
+name     :  Seungchan Lee
 github   :  stevechan970427
 language :  Python
 ```
