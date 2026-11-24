@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a2547,100:c4ac80&height=220&section=header&text=stevechan970427&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Python%20%C2%B7%20Chatbot&descAlignY=66&descSize=18&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a2547,100:c4ac80&height=220&section=header&text=Seungchan%20Lee&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Python%20%C2%B7%20Chatbot&descAlignY=66&descSize=18&animation=fadeIn" alt="banner" />
 
 <br/>
 
